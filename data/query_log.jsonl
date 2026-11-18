@@ -1,0 +1,15 @@
+{"time": "2026-11-18T15:14:32", "question": "What torque is specified for the cooling fan retaining screws in the PSU-500 maintenance manual?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 97.6}
+{"time": "2026-11-18T15:15:49", "question": "How long must you wait after disconnecting input power before opening the PSU-500 enclosure?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p2"], "seconds": 77.5}
+{"time": "2026-11-18T15:17:16", "question": "What torque is specified for the cooling fan retaining screws in the PSU-500 maintenance manual?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 16.2}
+{"time": "2026-11-18T15:17:31", "question": "How long must you wait after disconnecting input power before opening the PSU-500 enclosure?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p2"], "seconds": 15.6}
+{"time": "2026-11-18T15:19:19", "question": "Which signal is on pin 3 of connector J1 in the interface control document?", "model": "llama3.2:3b", "found": true, "sources": ["ICD-5001_RevA.pdf p2"], "seconds": 107.3}
+{"time": "2026-11-18T15:19:58", "question": "What is the unit price of the PSU-500?", "model": "llama3.2:3b", "found": false, "sources": [], "seconds": 39.2}
+{"time": "2026-11-18T15:20:57", "question": "What torque is specified for the cooling fan retaining screws in the PSU-500 maintenance manual?", "model": "llama3.2:1b", "found": false, "sources": [], "seconds": 58.2}
+{"time": "2026-11-18T15:21:24", "question": "How long must you wait after disconnecting input power before opening the PSU-500 enclosure?", "model": "llama3.2:1b", "found": false, "sources": [], "seconds": 27.6}
+{"time": "2026-11-18T15:22:24", "question": "Which signal is on pin 3 of connector J1 in the interface control document?", "model": "llama3.2:1b", "found": false, "sources": [], "seconds": 59.3}
+{"time": "2026-11-18T15:22:40", "question": "What is the unit price of the PSU-500?", "model": "llama3.2:1b", "found": false, "sources": [], "seconds": 16.5}
+{"time": "2026-11-18T15:24:25", "question": "What torque is specified for the cooling fan retaining screws in the PSU-500 maintenance manual?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 105.1}
+{"time": "2026-11-18T15:25:39", "question": "How long must you wait after disconnecting input power before opening the PSU-500 enclosure?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p2"], "seconds": 73.8}
+{"time": "2026-11-18T15:28:05", "question": "Which signal is on pin 3 of connector J1 in the interface control document?", "model": "llama3.2:3b", "found": true, "sources": [], "seconds": 145.5}
+{"time": "2026-11-18T15:28:45", "question": "What is the unit price of the PSU-500?", "model": "llama3.2:3b", "found": false, "sources": [], "seconds": 40.4}
+{"time": "2026-11-18T15:41:16", "question": "What is part number 7741-0032?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 89.7}

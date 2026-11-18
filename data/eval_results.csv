@@ -1,0 +1,21 @@
+id,category,status,retrieval_ok,citation_ok,keywords_ok,seconds,answer
+q01,factual,PASS,True,True,True,20.5,The torque specified for the cooling fan retaining screws is 1.2 N·m [S1].
+q02,factual,PASS,True,True,True,67.7,You must wait 5 minutes after disconnecting input power before opening the PSU-500 enclosure [S1].
+q03,factual,PASS,True,True,True,75.9,"ECN-2025-014 changed the PSU-500 operating temperature limits, with the new limits being from -45 °C to 90 °C [S1]."
+q04,factual,PASS,True,True,True,71.9,The PSU-500 communicates with the host over RS-422 at 115200 baud [S1].
+q05,factual,PASS,True,True,True,106.4,The hydraulic pump cover bolts should be torqued to 35 ft-lb [S1].
+q06,factual,PASS,True,True,True,147.5,A monetary loss of $10M or more qualifies as Catastrophic (Severity Category 1) under MIL-STD-882E [S3].
+q07,factual,FAIL,True,False,True,161.5,Probability Level F is used to document cases where the hazard is no longer present [S5].
+q08,factual,FAIL,True,False,True,108.5,The MIL-STD-882E system safety process consists of eight elements [S1][S3].
+q09,table,PASS,True,True,True,103.7,The result of test T-04 in report TR-2025-031 was FAIL [S2].
+q10,table,FAIL,True,True,False,40.9,Revision B (EQ-SPEC-1001_RevB.pdf): The maximum mass is 40kg [S1].
+q11,table,PASS,True,True,True,107.2,"The input fuse in the MM-3300 parts list is rated at 10A, as stated in [S2] [S5]."
+q12,table,PASS,True,True,True,162.0,"Pin 3 of connector J1 is the TX+ signal, as stated in [S1] Connector J1 Pin Assignment | Pin | Signal | Direction | 3 | TX+ | Out |"
+q13,exact_term,PASS,True,True,True,87.0,The part number 7741-0032 is the cooling fan assembly [S1].
+q14,exact_term,PASS,False,True,True,46.3,Revision B (EQ-SPEC-1001_RevB.pdf): The requirement for the PSU to withstand vibration is in accordance with MIL-STD-810H Method 514.8 [S1].
+q15,exact_term,PASS,True,True,True,117.0,"Systems engineering is a methodical, multidisciplinary approach for the design, realization, technical management, operations, and retirement of a system [S1]."
+q16,revision_compare,PASS,True,True,True,84.9,Revision A (EQ-SPEC-1001_RevA.pdf): The maximum operating temperature is 85°C [S1]. Revision B (EQ-SPEC-1001_RevB.pdf): The maximum operating temperature is 90 °C [S2] and 45 °C [S3].
+q17,revision_compare,PASS,True,True,True,127.3,The minimum operating temperature changed from -40 °C to -45 °C between Revision A and Revision B [S4]. ECN-2025-014 authorised this change [S1].
+q18,not_found,PASS,,,,33.5,Not found in the documents.
+q19,not_found,FAIL,,,,111.8,The maximum operating temperature of the PSU-500 is 90 °C [S1].
+q20,not_found,PASS,,,,119.1,Not found in the documents.

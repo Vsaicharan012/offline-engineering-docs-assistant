@@ -1,0 +1,304 @@
+[
+ {
+  "id": "q01",
+  "category": "factual",
+  "question": "What torque is specified for the cooling fan retaining screws in the PSU-500 maintenance manual?",
+  "expected_answer": "1.2 N·m",
+  "expected_keywords": [
+   "1.2"
+  ],
+  "expected_sources": [
+   {
+    "file": "MM-3300_RevA.pdf",
+    "page": 3
+   }
+  ]
+ },
+ {
+  "id": "q02",
+  "category": "factual",
+  "question": "How long must you wait after disconnecting input power before opening the PSU-500 enclosure?",
+  "expected_answer": "5 minutes",
+  "expected_keywords": [
+   "5 minutes"
+  ],
+  "expected_sources": [
+   {
+    "file": "MM-3300_RevA.pdf",
+    "page": 2
+   }
+  ]
+ },
+ {
+  "id": "q03",
+  "category": "factual",
+  "question": "Which ECN changed the PSU-500 operating temperature limits?",
+  "expected_answer": "ECN-2025-014",
+  "expected_keywords": [
+   "ECN-2025-014"
+  ],
+  "expected_sources": [
+   {
+    "file": "ECN-2025-014.docx",
+    "page": 1
+   },
+   {
+    "file": "ECN-2025-014.docx",
+    "page": 2
+   }
+  ]
+ },
+ {
+  "id": "q04",
+  "category": "factual",
+  "question": "What baud rate does the PSU-500 use to communicate with the host?",
+  "expected_answer": "115200 baud over RS-422",
+  "expected_keywords": [
+   "115200"
+  ],
+  "expected_sources": [
+   {
+    "file": "ICD-5001_RevA.pdf",
+    "page": 1
+   }
+  ]
+ },
+ {
+  "id": "q05",
+  "category": "factual",
+  "question": "What torque applies to the hydraulic pump cover bolts?",
+  "expected_answer": "35 ft-lb (scanned doc, OCR)",
+  "expected_keywords": [
+   "35"
+  ],
+  "expected_sources": [
+   {
+    "file": "SCAN-TM-0001.pdf",
+    "page": 1
+   }
+  ]
+ },
+ {
+  "id": "q06",
+  "category": "factual",
+  "question": "What monetary loss qualifies as Catastrophic (Severity Category 1) under MIL-STD-882E?",
+  "expected_answer": "Monetary loss equal to or exceeding $10 million.",
+  "expected_keywords": [
+   "10"
+  ],
+  "expected_sources": [
+   {
+    "file": "MIL-STD-882E.pdf",
+    "page": 19
+   }
+  ]
+ },
+ {
+  "id": "q07",
+  "category": "factual",
+  "question": "What does Probability Level F represent in MIL-STD-882E?",
+  "expected_answer": "Eliminated: the hazard is no longer present.",
+  "expected_keywords": [
+   "no longer present"
+  ],
+  "expected_sources": [
+   {
+    "file": "MIL-STD-882E.pdf",
+    "page": 19
+   },
+   {
+    "file": "MIL-STD-882E.pdf",
+    "page": 20
+   }
+  ]
+ },
+ {
+  "id": "q08",
+  "category": "factual",
+  "question": "How many elements are included in the MIL-STD-882E system safety process?",
+  "expected_answer": "Eight elements.",
+  "expected_keywords": [
+   "eight"
+  ],
+  "expected_sources": [
+   {
+    "file": "MIL-STD-882E.pdf",
+    "page": 17
+   }
+  ]
+ },
+ {
+  "id": "q09",
+  "category": "table",
+  "question": "What was the result of test T-04 in report TR-2025-031?",
+  "expected_answer": "FAIL (humidity)",
+  "expected_keywords": [
+   "FAIL"
+  ],
+  "expected_sources": [
+   {
+    "file": "TR-2025-031.pdf",
+    "page": 2
+   }
+  ]
+ },
+ {
+  "id": "q10",
+  "category": "table",
+  "question": "In EQ-SPEC-1001 Revision B, what is the maximum mass in the summary of limits table?",
+  "expected_answer": "4.0 kg",
+  "expected_keywords": [
+   "4.0"
+  ],
+  "expected_sources": [
+   {
+    "file": "EQ-SPEC-1001_RevB.pdf",
+    "page": 5
+   }
+  ]
+ },
+ {
+  "id": "q11",
+  "category": "table",
+  "question": "What is the rating of the input fuse in the MM-3300 parts list?",
+  "expected_answer": "10 A",
+  "expected_keywords": [
+   "10"
+  ],
+  "expected_sources": [
+   {
+    "file": "MM-3300_RevA.pdf",
+    "page": 4
+   }
+  ]
+ },
+ {
+  "id": "q12",
+  "category": "table",
+  "question": "Which signal is on pin 3 of connector J1 in the interface control document?",
+  "expected_answer": "TX+",
+  "expected_keywords": [
+   "TX+"
+  ],
+  "expected_sources": [
+   {
+    "file": "ICD-5001_RevA.pdf",
+    "page": 2
+   }
+  ]
+ },
+ {
+  "id": "q13",
+  "category": "exact_term",
+  "question": "What is part number 7741-0032?",
+  "expected_answer": "Cooling fan assembly",
+  "expected_keywords": [
+   "fan"
+  ],
+  "expected_sources": [
+   {
+    "file": "MM-3300_RevA.pdf",
+    "page": 3
+   },
+   {
+    "file": "MM-3300_RevA.pdf",
+    "page": 4
+   }
+  ]
+ },
+ {
+  "id": "q14",
+  "category": "exact_term",
+  "question": "What does requirement 3.2.5 of EQ-SPEC-1001 Revision B require?",
+  "expected_answer": "Vibration per MIL-STD-810H Method 514.8",
+  "expected_keywords": [
+   "514.8"
+  ],
+  "expected_sources": [
+   {
+    "file": "EQ-SPEC-1001_RevB.pdf",
+    "page": 3
+   }
+  ]
+ },
+ {
+  "id": "q15",
+  "category": "exact_term",
+  "question": "Systems engineering is a methodical, multidisciplinary approach for what, according to the NASA Systems Engineering Handbook?",
+  "expected_answer": "A methodical, multidisciplinary approach for the design, realization, technical management, operations, and retirement of a system.",
+  "expected_keywords": [
+   "design",
+   "realization"
+  ],
+  "expected_sources": [
+   {
+    "file": "NASA-SP-2016-6105-Rev2.pdf",
+    "page": 16
+   }
+  ]
+ },
+ {
+  "id": "q16",
+  "category": "revision_compare",
+  "question": "What is the maximum operating temperature in EQ-SPEC-1001 Revision A and Revision B?",
+  "expected_answer": "Rev A 85 °C; Rev B 90 °C",
+  "expected_keywords": [
+   "85",
+   "90"
+  ],
+  "require_all_sources": true,
+  "expected_sources": [
+   {
+    "file": "EQ-SPEC-1001_RevA.pdf",
+    "page": 5
+   },
+   {
+    "file": "EQ-SPEC-1001_RevB.pdf",
+    "page": 5
+   }
+  ]
+ },
+ {
+  "id": "q17",
+  "category": "revision_compare",
+  "question": "How did the minimum operating temperature change between Revision A and Revision B, and which ECN authorised it?",
+  "expected_answer": "-40 °C to -45 °C, ECN-2025-014",
+  "expected_keywords": [
+   "-40",
+   "-45",
+   "ECN-2025-014"
+  ],
+  "expected_sources": [
+   {
+    "file": "ECN-2025-014.docx",
+    "page": 2
+   },
+   {
+    "file": "EQ-SPEC-1001_RevA.pdf",
+    "page": 3
+   },
+   {
+    "file": "EQ-SPEC-1001_RevB.pdf",
+    "page": 3
+   }
+  ]
+ },
+ {
+  "id": "q18",
+  "category": "not_found",
+  "question": "What is the unit price of the PSU-500?",
+  "expected_answer": "Not found in the documents."
+ },
+ {
+  "id": "q19",
+  "category": "not_found",
+  "question": "What is the maximum operating temperature of the XR-9000 transmitter?",
+  "expected_answer": "Not found in the documents."
+ },
+ {
+  "id": "q20",
+  "category": "not_found",
+  "question": "Who is the CEO of the company that wrote these documents?",
+  "expected_answer": "Not found in the documents."
+ }
+]

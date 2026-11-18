@@ -1,0 +1,25 @@
+﻿requirement_id,text,type,section,page
+3.1.1,The PSU shall accept a nominal input voltage of 24 V DC.,performance,3.1,2
+3.1.2,The PSU shall operate over an input voltage range of 18 V DC to 32 V DC.,performance,3.1,2
+3.1.3,The PSU shall provide a regulated 12 V DC output of up to 8 A.,performance,3.1,2
+3.1.4,The PSU shall provide a regulated 5 V DC output of up to 6 A.,performance,3.1,2
+3.1.5,The PSU shall achieve an efficiency of not less than 88 percent at full load.,performance,3.1,2
+3.1.6,The PSU shall provide over-current protection on all outputs.,safety,3.1,2
+3.1.7,The PSU shall assert a power-good signal within 100 ms of output stabilisation.,interface,3.1,2
+3.1.8,The PSU shall withstand reverse input polarity without damage.,safety,3.1,2
+3.2.1,The PSU shall operate at ambient temperatures from -45 °C to 90 °C.,environmental,3.2,3
+3.2.2,The PSU shall survive storage temperatures from -55 °C to 105 °C.,environmental,3.2,3
+3.2.3,The PSU shall operate at altitudes up to 5000 m.,environmental,3.2,3
+3.2.4,The PSU shall meet the humidity requirements of MIL-STD-810H Method 507.6.,environmental,3.2,3
+3.2.5,The PSU shall withstand vibration in accordance with MIL-STD-810H Method 514.8.,environmental,3.2,3
+3.2.6,"The PSU shall withstand a shock of 40 g, 11 ms half-sine.",environmental,3.2,3
+3.2.7,The PSU shall provide an ingress protection rating of IP65.,environmental,3.2,3
+3.3.1,The PSU shall comply with MIL-STD-461G CE102 conducted emission limits.,safety,3.3,3
+3.3.2,The PSU shall comply with MIL-STD-461G RS103 radiated susceptibility limits.,safety,3.3,3
+3.4.1,The PSU mass shall not exceed 4.0 kg.,performance,3.4,4
+3.4.2,The PSU dimensions shall not exceed 220 x 150 x 80 mm.,performance,3.4,4
+3.4.3,The PSU shall use a MIL-DTL-38999 Series III connector for J1.,interface,3.4,4
+3.4.4,The PSU shall be marked with P/N 7741-0100.,interface,3.4,4
+3.5.1,"The PSU shall achieve an MTBF of not less than 25,000 hours.",performance,3.5,4
+3.5.2,The PSU shall have a mean time to repair not exceeding 30 minutes.,performance,3.5,4
+3.5.3,The PSU shall allow cooling fan replacement without removing the unit from the rack.,performance,3.5,4

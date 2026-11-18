@@ -1,0 +1,86 @@
+{
+ "synthetic/ECN-2025-014.docx": {
+  "sha256": "d1d7f945213f2272c4e5818892462500ef015934e4e717cb82d8e021f3e795bc",
+  "pages": 2,
+  "chunks": 1,
+  "ocr_pages": 0
+ },
+ "synthetic/EQ-SPEC-1001_RevA.pdf": {
+  "sha256": "c7c9cf36a39b909ad26e4e861d5422dda0fedf0d38da84ab19620f128c89c063",
+  "pages": 5,
+  "chunks": 9,
+  "ocr_pages": 0
+ },
+ "synthetic/EQ-SPEC-1001_RevB.pdf": {
+  "sha256": "9e49813dae8b0eb43d8c4900057c4a557ca5af6c4d3051ee988c7c67b301a660",
+  "pages": 5,
+  "chunks": 9,
+  "ocr_pages": 0
+ },
+ "synthetic/ICD-5001_RevA.pdf": {
+  "sha256": "612ab1edde04e52524800139a998d5f1789d81b58d14dea0ee3a3a5641daad98",
+  "pages": 2,
+  "chunks": 3,
+  "ocr_pages": 0
+ },
+ "synthetic/MM-3300_RevA.pdf": {
+  "sha256": "45283be0596fd2ffbd45769368956d3c97e2cc6ef0346ed763031e3c35178867",
+  "pages": 4,
+  "chunks": 4,
+  "ocr_pages": 0
+ },
+ "synthetic/SCAN-TM-0001.pdf": {
+  "sha256": "df2e8cfef3f1b5a44e1f32c57a42079ec9bddba923f0b0ae8ea95ddad7293ba6",
+  "pages": 1,
+  "chunks": 1,
+  "ocr_pages": 1
+ },
+ "synthetic/TR-2025-031.pdf": {
+  "sha256": "30f7d9510572f48a91a8e89d9fa6a133bd4200f02df03ffbbab0808a4a08bff8",
+  "pages": 2,
+  "chunks": 2,
+  "ocr_pages": 0
+ },
+ "real/ASSIST_DLA/DRDO-Radome-Design-Optimisation.pdf": {
+  "sha256": "62155754dfb25bca3afe48bfa4bdc1b2f036771d1888ae472216a55061376405",
+  "pages": 8,
+  "chunks": 25,
+  "ocr_pages": 0
+ },
+ "real/ASSIST_DLA/FAA-AC-43-6D.pdf": {
+  "sha256": "2266b193f2565ccb84f54ce08d626686eb06276e46c607dc1afb9cc04732ac8a",
+  "pages": 22,
+  "chunks": 36,
+  "ocr_pages": 0
+ },
+ "real/ASSIST_DLA/FAA-AC-43-9D.pdf": {
+  "sha256": "d20dba43e5c83d60d1ea0b61f56a021d98372137a435ee0004125a89fe5696dd",
+  "pages": 24,
+  "chunks": 44,
+  "ocr_pages": 0
+ },
+ "real/ASSIST_DLA/MIL-STD-461H.pdf": {
+  "sha256": "eaa0943217afe17dd1b162f2b4bf96c9fd6fcc78685ad3fe606836925136c7ec",
+  "pages": 294,
+  "chunks": 488,
+  "ocr_pages": 0
+ },
+ "real/ASSIST_DLA/NASA-SP-2016-6105-Rev2.pdf": {
+  "sha256": "a200b2b4c7231b48f7a8214fa2852f65cf22e5c1d31da2cdef90b0d791e349e5",
+  "pages": 356,
+  "chunks": 782,
+  "ocr_pages": 1
+ },
+ "real/ASSIST_DLA/NASA-TN-D-6646-Thermal-Vacuum-Test.pdf": {
+  "sha256": "e2f024e32944fb54b3f1588c29fbfb72145088d757912189d387df442cbb51c5",
+  "pages": 73,
+  "chunks": 111,
+  "ocr_pages": 0
+ },
+ "real/ASSIST_DLA/MIL-STD-882E.pdf": {
+  "sha256": "6315a88e881c3813332a0fed38a84711db1a918d48755779df9327450eed14a6",
+  "pages": 106,
+  "chunks": 169,
+  "ocr_pages": 0
+ }
+}

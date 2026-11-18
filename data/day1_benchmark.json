@@ -1,0 +1,8 @@
+{
+  "chat_model": "llama3.2:3b",
+  "tokens_per_second": 4.08,
+  "wall_seconds": 42.26,
+  "ollama_ram_gb": 0.01,
+  "system_ram_gb": 8.3,
+  "embedding_dims": 768
+}
