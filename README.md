@@ -116,3 +116,7 @@ The assignment asks for all 20 questions; only 4 were run because of laptop spee
 - Revision handling reports each revision but does not decide which is current; the ECN decides
 - Real-document test questions were tuned against retrieval results
 - Final evaluation run: 2026-11-18
+
+
+
+Demo video (Wi-Fi switched off): https://drive.google.com/file/d/1blb2Q7Deyp-n4XIoN0St6QxRzdPQGKeC/view?usp=drivesdk

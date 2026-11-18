@@ -15,3 +15,12 @@
 {"time": "2026-11-18T15:41:16", "question": "What is part number 7741-0032?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 89.7}
 {"time": "2026-11-18T16:03:29", "question": "What is part number 7741-0032?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 138.0}
 {"time": "2026-11-18T16:07:50", "question": "Who is the CEO of the company?", "model": "llama3.2:3b", "found": false, "sources": [], "seconds": 125.9}
+{"time": "2026-11-18T16:10:51", "question": "What is part number 7741-0032?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 17.4}
+{"time": "2026-11-18T16:12:25", "question": "What changed between Revision A and Revision B of the PSU-500 specification?", "model": "llama3.2:3b", "found": true, "sources": ["ECN-2025-014.docx p1"], "seconds": 91.2}
+{"time": "2026-11-18T16:12:40", "question": "Who is the CEO of the company?", "model": "llama3.2:3b", "found": false, "sources": [], "seconds": 10.3}
+{"time": "2026-11-18T16:26:51", "question": "What is part number 7741-0032?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 139.5}
+{"time": "2026-11-18T16:29:43", "question": "What changed between Revision A and Revision B of the PSU-500 specification?", "model": "llama3.2:3b", "found": true, "sources": ["ECN-2025-014.docx p1"], "seconds": 107.0}
+{"time": "2026-11-18T16:32:33", "question": "Who is the CEO of the company?", "model": "llama3.2:3b", "found": false, "sources": [], "seconds": 126.8}
+{"time": "2026-11-18T16:41:47", "question": "What is part number 7741-0032?", "model": "llama3.2:3b", "found": true, "sources": ["MM-3300_RevA.pdf p3"], "seconds": 170.4}
+{"time": "2026-11-18T16:43:48", "question": "What changed between Revision A and Revision B of the PSU-500 specification?", "model": "llama3.2:3b", "found": true, "sources": ["ECN-2025-014.docx p1"], "seconds": 100.5}
+{"time": "2026-11-18T16:46:12", "question": "Who is the CEO of the company?", "model": "llama3.2:3b", "found": false, "sources": [], "seconds": 124.2}
